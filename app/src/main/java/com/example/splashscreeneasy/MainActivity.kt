@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     contentAlignment = Alignment.Center
                 ) {
-                    Greeting("Android")
+                    Greeting("PRUEBA DE COMMIT AND PULL REQUEST")
                 }
             }
         }
