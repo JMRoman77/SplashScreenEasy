@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name ="Theme.MySplasCreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/pink</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/daddyhero</item>
+        <item name="postSplashScreenTheme">@style/Theme.SplashScreen</item>
+
+    </style>
+    <style name="Theme.SplashScreenEasy" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
